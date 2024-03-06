@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
 <h3 align="center">A Software Engineer & Passionate Programmer from India</h3>
-<!--GitHub Profile visitor count--><p align="left"> <img src="https://komarev.com/ghpvc/?username=santosh-kum16&label=Profile%20views&color=0e75b6&style=flat" alt="santosh-kum16" /> </p>
 
 - 🌱 I’m currently learning *Spring Boot, Hibernate, Aangular*
 
@@ -27,6 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh-kum16&show_icons=true&locale=en" alt="santosh-kum16" /></p>
 <!-- Total Contribution, Current Streaks, Longest Streak -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosh-kum16&" alt="santosh-kum16" /></p>
+<!--GitHub Profile visitor count--><p align="center"> <img src="https://komarev.com/ghpvc/?username=santosh-kum16&label=Profile%20views&color=0e75b6&style=flat" alt="santosh-kum16" /> </p>
 <!-- Showing Trophy 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosh-kum16" alt="santosh-kum16" /></a> </p>-->
 <!--Twitter Account Badges 
