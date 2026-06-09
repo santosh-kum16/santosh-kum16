@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
-<h3 align="center">A Software Engineer & Passionate Programmer from India</h3>
+<h3 align="center">A Software Engineer & Passionate Developer from India</h3>
 
-- 🌱 I’m currently learning *Spring Boot, Hibernate, Aangular*
+- 🌱 I’m currently learning *Hibernate, Aangular*
 
-- 💬 Ask me about *Java, Spring MVC, HTML, CSS, MySQL,*
+- 💬 Ask me about *Java,Spring boot, Spring MVC, HTML, CSS, MySQL,*
 
 - ⚡ Fun fact *I love Programming & Travelling a new Places*
 <h3 align="left">Find me on Web:</h3>
