@@ -1,33 +1,59 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
-<h3 align="center">A Software Engineer & Passionate Developer from India</h3>
+<h3 align="center">Software Engineer & Passionate Developer from India</h3>
 
-<h3 align="left">Languages & Tools:</h3>
+<p align="center">
+  <a href="https://linkedin.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect with Santosh Kumar on LinkedIn">
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email Santosh Kumar">
+  </a>
+</p>
+
+## 👨‍💻 About me
+
+- 🔭 I'm currently working on building scalable software solutions
+- 🌱 Continuously learning new technologies and best practices
+- 💡 Passionate about clean code and problem-solving
+- 📍 Based in India
+
+## 🛠️ Technologies & Tools
+
 <p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
-<br>
-  
-<!--Displaying % of Languages Used in Repositories -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh-kum16&show_icons=true&locale=en&layout=compact" alt="santosh-kum16" /></p>
-
-<!-- User's GitHub Statistics -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santosh-kum16&show_icons=true&locale=en" alt="santosh-kum16" /></p>
-
-<!-- Total Contribution, Current Streaks, Longest Streak -->
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosh-kum16&" alt="santosh-kum16" />
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java programming language" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="40" height="40"/>
+  </a>
 </p>
 
-<!--GitHub Profile visitor count-->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=santosh-kum16&label=Profile%20views&color=0e75b6&style=flat" alt="santosh-kum16" /> 
-  <img alt="Year badge" src="https://badges.pufler.dev/years/santosh-kum16">
-  <img alt="repo" src ="https://badges.pufler.dev/repos/santosh-kum16">
-  <img alt="commit" src="https://badges.pufler.dev/commits/monthly/santosh-kum16">
+## 📂 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [Project Name](#) | Brief description of what this project does and the technologies used |
+| [Project Name](#) | Brief description of what this project does and the technologies used |
+| [Project Name](#) | Brief description of what this project does and the technologies used |
+
+*Replace with your actual projects and links*
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santosh-kum16&show_icons=true&locale=en&hide_border=true" alt="Santosh Kumar's GitHub statistics" />
 </p>
 
-<!-- Showing Trophy 
-<p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosh-kum16" alt="santosh-kum16" /></a> 
-</p>-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santosh-kum16&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Santosh Kumar's most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santosh-kum16&hide_border=true" alt="Santosh Kumar's GitHub contribution streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=santosh-kum16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visitor count" />
+</p>
